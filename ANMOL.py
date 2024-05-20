@@ -442,11 +442,11 @@ def rmain():
     elif Anmol in ["3","03"]:
          mail()
     elif Anmol in ["4","04"]:
-     os.system("xdg-open https://wa.me/+8801926890544");rmain()
+     os.system("xdg-open https://www.facebook.com/anmolgoodman");rmain()
     elif Anmol in ["0","00"]:
      print(f' Exited Anmoley Terminal ');os.system("xdg-open https://www.facebook.com/profile.php?id=61554748685443");time.sleep(3);os.system('xdg-open https://www.facebook.com/alphaxd.69');exit()
     else:
-     print(f" Don't Select Wrong Options ");os.system("xdg-open https://t.me/Anmoleytools");rmain()
+     print(f" Don't Select Wrong Options ");os.system("xdg-open t.me/anmolkhadka11");rmain()
 
 #---------------------[File-Menu]---------------------#
 def file():
