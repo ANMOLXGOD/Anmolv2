@@ -1,6 +1,3 @@
-##TERMUX NEPAL ❤️
-#https://t.me/termuxxnepal
-
 import os
 import bs4
 import json
